@@ -1,0 +1,11 @@
+header{ background-color: black;padding: 2px 25px;position: fixed;left: 0;right: 0;top: 0;z-index: 999;}
+header h3{ display: inline-block; color: red;}
+.contain{ margin-top: 42px;}
+#stockSearch{ float: right;margin-top: 10px;}
+#stockSearch form input{ padding: 5px;width: 300px;}
+#stockSearch form button{ background-color: transparent; border: none; outline: none; box-shadow: none;}
+#stockSearch form button span{ position: relative;top: 0;right: 42px;color: #9DC8F1;}
+#stockContain { margin-top: 28px;}
+.stock_tree{ margin-top: 60px;}
+.tree{ border-right: 1px solid pink;}
+#tree_two{margin: 28px 0;}
